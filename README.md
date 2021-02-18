@@ -1,5 +1,5 @@
 # Beginner-Project
-1. Password Validator 
+1. Password Validator (Java)
       Question -->Write method to check whether a string is a valid password.
                 * Password rules * 
         A password must have at least ten characters.
